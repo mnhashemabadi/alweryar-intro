@@ -2,7 +2,7 @@
 
 ## Overview
 
-Alweryar is Alwer's collaborator network. It is for listing review and for sales collaboration. Affiliate selling starts with a referral link on the site. The marketplace is [alwer.ir](https://alwer.ir).
+Alweryar is Alwer's collaborator network for listing review and for sales collaboration. The public homepage says publishing needs Alwer's approval until the collaborator is trusted, and a trusted collaborator can publish directly. The marketplace is [alwer.ir](https://alwer.ir). The homepage also links [alwerchi.ir](https://alwerchi.ir).
 
 ## Stack
 
@@ -10,8 +10,8 @@ The public site does not publish an implementation stack. This repository does n
 
 ## Specialties
 
-- Listing review for Alwer collaborators
-- Sales collaboration with a referral link
+- Listing review for Alwer collaborators, with approval until trusted and direct publish after that, as stated on the public homepage
+- Sales collaboration, as stated on the public homepage
 
 No library is named, because none is published on the public site.
 
