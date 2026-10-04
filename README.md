@@ -1,8 +1,8 @@
 # آلوریار
 
-من آلوریار را برای همکاران آلور گذاشتم، نه برای خود بازار. بازار [alwer.ir](https://alwer.ir) است.
+آلوریار را برای همکاران آلور ساختم، نه به‌جای خود بازار. بازار [alwer.ir](https://alwer.ir) است.
 
-عنوان صفحهٔ [alweryar.ir](https://alweryar.ir) این است: «آلوریار | همیار آلور؛ همکاری بررسی و فروش». همان صفحه آلوریار را خانهٔ کسب درآمد همکاری آلور می‌نامد و دو کار را نام می‌برد: همکاری بررسی آگهی، و همکاری در فروش. تا همکار معتمد شود، انتشار با تأیید آلور است. همکار معتمد می‌تواند مستقیم منتشر کند. این دو جمله روی همان صفحه است.
+عنوان صفحهٔ [alweryar.ir](https://alweryar.ir) این است: «آلوریار | همیار آلور؛ همکاری بررسی و فروش». همان صفحه آلوریار را خانهٔ کسب درآمد از همکاری با آلور می‌نامد و دو کار را نام می‌برد: همکاری در بررسی آگهی، و همکاری در فروش. تا همکار معتمد شود، انتشار با تأیید آلور است. همکار معتمد می‌تواند مستقیم منتشر کند. این دو جمله روی همان صفحه است.
 
 همان صفحه به [alwerchi.ir](https://alwerchi.ir) با برچسب «فروشگاه آلورچی» پیوند می‌دهد. پیوندهای دیگر روی همان صفحه: [دریافت برنامه](https://alweryar.ir/download)، [دربارهٔ آلوریار](https://alweryar.ir/about)، [ورود به برنامه](https://alweryar.ir/pwa/)، [بازار آلور](https://alwer.ir/). عنوان صفحهٔ `/pwa/` «برنامهٔ آلوریار» است.
 
@@ -20,12 +20,12 @@ I do not have a separate product repository for Alweryar. The public site does n
 
 ## پروژه‌های مرتبط
 
-- [hamejoo-intro](https://github.com/mnhashemabadi/hamejoo-intro): همه‌جو را برای بازدیدکننده‌ای گذاشتم که با یک عبارت آگهی را یک‌جا ببیند و برای جزئیات به سایت منبع برود.
-- [alwer-intro](https://github.com/mnhashemabadi/alwer-intro): آلور را برای خریداری گذاشتم که درخواست بنویسد و پیشنهاد قیمت‌ها را کنار هم ببیند؛ آگهی فروش هم روی همان بازار است.
-- [kasbafzar-intro](https://github.com/mnhashemabadi/kasbafzar-intro): کسب‌افزار را برای کسی گذاشتم که فروش و مشتری و هزینه را ثبت کند و فاکتور را با لینک پرداخت برای مشتری بفرستد.
-- [azadchi-intro](https://github.com/mnhashemabadi/azadchi-intro): آزادچی را برای آگهی و جستجو در مناطق آزاد گذاشتم؛ گفتگو با طرف معامله داخل خود آزادچی می‌ماند.
-- [afzi-intro](https://github.com/mnhashemabadi/afzi-intro): افزی را برای کوتاه کردن یک نشانی http یا https گذاشتم؛ باز کردن لینک همان صفحه را باز می‌کند.
-- [alwerchi-intro](https://github.com/mnhashemabadi/alwerchi-intro): آلورچی را برای فروشگاهی گذاشتم که کالا و موجودی‌اش در بازار آلور دیده شود و خریدار در آلور بماند.
+- [hamejoo-intro](https://github.com/mnhashemabadi/hamejoo-intro): همه‌جو را برای بازدیدکننده‌ای ساختم که با یک عبارت آگهی را یک‌جا ببیند و برای جزئیات به سایت منبع برود.
+- [alwer-intro](https://github.com/mnhashemabadi/alwer-intro): آلور را برای خریداری ساختم که درخواست بنویسد و پیشنهاد قیمت‌ها را کنار هم ببیند؛ آگهی فروش هم روی همان بازار است.
+- [kasbafzar-intro](https://github.com/mnhashemabadi/kasbafzar-intro): کسب‌افزار را برای کسی ساختم که فروش و مشتری و هزینه را ثبت کند و فاکتور را با لینک پرداخت برای مشتری بفرستد.
+- [azadchi-intro](https://github.com/mnhashemabadi/azadchi-intro): آزادچی را برای آگهی و جستجو در مناطق آزاد ساختم؛ گفتگو با طرف معامله داخل خود آزادچی می‌ماند.
+- [afzi-intro](https://github.com/mnhashemabadi/afzi-intro): افزی را برای کوتاه کردن یک نشانی http یا https ساختم؛ باز کردن لینک کوتاه همان صفحه را باز می‌کند.
+- [alwerchi-intro](https://github.com/mnhashemabadi/alwerchi-intro): آلورچی را برای فروشگاهی ساختم که کالا و موجودی‌اش در بازار آلور دیده شود و خریدار در آلور بماند.
 
 ## Related
 
